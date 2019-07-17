@@ -33,7 +33,7 @@ def reduce_to_total(array, total = 0)
   i = 0 
   while i < array.length do 
     total = total + array[i]
-    i = i + 1 
+    i = i + 1
   end
   return total 
   
